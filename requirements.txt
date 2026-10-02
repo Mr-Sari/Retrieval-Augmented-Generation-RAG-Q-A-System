@@ -1,0 +1,11 @@
+# The notebook uses legacy LangChain import paths (langchain.vectorstores,
+# langchain.document_loaders, langchain.chains) that were removed in LangChain 1.0
+langchain<1.0
+langchain-community
+langchain-openai
+openai
+chromadb
+tiktoken
+gradio
+python-dotenv
+jupyter
